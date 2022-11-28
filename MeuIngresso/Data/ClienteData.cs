@@ -56,7 +56,7 @@ namespace MeuIngresso.Data
         }
         public Cliente Read(int idCli)
         {
-            Cliente cliente = null;
+            Cliente cliente01 = null;
             try
             {
                 SqlCommand comandoSql = new SqlCommand();
@@ -69,10 +69,10 @@ namespace MeuIngresso.Data
                 SqlDataReader dadosSQL = comandoSql.ExecuteReader();
                 if (dadosSQL.Read())
                 {
-                    cliente = new Cliente();
-                    cliente.IdCliente = (int)dadosSQL["idCliente"];
-                    cliente.Nome = dadosSQL["nome"].ToString();
-                    cliente.Email = dadosSQL["email"].ToString();
+                    cliente01 = new Cliente();
+                    cliente01.IdCliente = (int)dadosSQL["idCliente"];
+                    cliente01.Nome = dadosSQL["nome"].ToString();
+                    cliente01.Email = dadosSQL["email"].ToString();
                 }
 
             }
@@ -80,11 +80,11 @@ namespace MeuIngresso.Data
             {
                 Console.WriteLine("Erro" + erro);
             }
-            return cliente;
+            return cliente01;
         }
         public Cliente Read(string email)
         {
-            Cliente cliente = null;
+            Cliente cliente02 = null;
             try
             {
                 SqlCommand comandoSql = new SqlCommand();
@@ -97,10 +97,11 @@ namespace MeuIngresso.Data
                 SqlDataReader dadosSQL = comandoSql.ExecuteReader();
                 if (dadosSQL.Read())
                 {
-                    cliente = new Cliente();
-                    cliente.IdCliente = (int)dadosSQL["idCliente"];
-                    cliente.Nome = dadosSQL["nome"].ToString();
-                    cliente.Email = dadosSQL["email"].ToString();
+                    cliente02 = new Cliente();
+                    cliente02.IdCliente = (int)dadosSQL["idCliente"];
+                    cliente02.Nome = dadosSQL["nome"].ToString();
+                    cliente02.Email = dadosSQL["email"].ToString();
+                    cliente02.Senha = dadosSQL["senha"].ToString();
                 }
 
             }
@@ -109,7 +110,7 @@ namespace MeuIngresso.Data
                 Console.WriteLine("Erro" + erro);
             }
 
-            return cliente;
+            return cliente02;
         }
         public void Update(Cliente cliente)
         {

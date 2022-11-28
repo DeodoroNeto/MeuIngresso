@@ -63,8 +63,8 @@ namespace MeuIngresso.Controllers
             {
                 Cliente cli = new Cliente();
                 cli.Nome = cliente["nome"];
-                cli.Nome = cliente["nome"];
-                cli.Nome = cliente["nome"];
+                cli.Email = cliente["email"];
+                cli.Senha = cliente["senha"];
 
                 Cliente c = new Cliente();
                 using (ClienteData data = new ClienteData())
@@ -82,7 +82,6 @@ namespace MeuIngresso.Controllers
             }
             return View("Create");
         }
-
         [HttpGet]
         public IActionResult Update(int id)
         {
