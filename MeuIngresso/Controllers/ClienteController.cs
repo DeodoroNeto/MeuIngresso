@@ -55,11 +55,28 @@ namespace MeuIngresso.Controllers
         [HttpPost]
         public IActionResult Read(IFormCollection cliente)
         {
-            string nome = cliente["nome"];
-            string email = cliente["email"];
-            string senha = cliente["senha"];
 
-            if (!email.Equals(""))
+            Cliente ClienteLogando = new Cliente();
+            ClienteLogando.Email = cliente["email"];
+            ClienteLogando.Senha = cliente["senha"];
+
+            if (ClienteLogando.Email.Equals(""))
+            {
+                ViewBag.Mensagem = "Campo Email não pode ser vazio!";
+                return View("Index", null);
+            }
+
+            if (ClienteLogando.Senha.Equals(""))
+            {
+                ViewBag.Mensagem = "Campo Senha não pode ser vazio!";
+                return View("Index", null);
+            }
+
+            Cliente senhaCliente = new Cliente();
+            using (ClienteData senhaData = new ClienteData())
+                senhaCliente = senhaData.Read(ClienteLogando.Email);
+
+            if (ClienteLogando.Senha == senhaCliente.Senha) //Ocorre uma exeption, ao tentar fazer loguin sem estar cadastrado no banco
             {
                 Cliente cli = new Cliente();
                 cli.Nome = cliente["nome"];
@@ -69,18 +86,12 @@ namespace MeuIngresso.Controllers
                 Cliente c = new Cliente();
                 using (ClienteData data = new ClienteData())
                     c = data.Read(cli.Email);
-                if (c.Senha == cli.Senha)
-                {
-                    ViewBag.Mensagem = "Olá";
-                    return View("Index", c);
-                }
-                else
-                {
-                    ViewBag.Mensagem = "Usuário ou senha inválido";
-                    return View("Index", null);
-                }
+
+                ViewBag.Mensagem = "Olá";
+                return View("Index", c);
             }
-            return View("Create");
+            ViewBag.Mensagem = "Senha inválida";
+            return View("Index", null);
         }
         [HttpGet]
         public IActionResult Update(int id)
@@ -93,19 +104,19 @@ namespace MeuIngresso.Controllers
         public IActionResult Update(int id, Cliente cliente)
         {
             cliente.IdCliente = id;
-            return View(cliente);
+            View(cliente);
 
             using (ClienteData data = new ClienteData())
                 data.Update(cliente);
+            return RedirectToAction("Index", cliente);
+        }
+
+        public IActionResult Delete(int id)
+        {
+            using (ClienteData data = new ClienteData())
+                data.Delete(id);
+
             return RedirectToAction("Index");
         }
-
-            public IActionResult Delete(int id)
-            {
-                using (ClienteData data = new ClienteData())
-                    data.Delete(id);
-
-                return RedirectToAction("Index");
-            }
-        }
     }
+}

@@ -11,7 +11,6 @@ namespace MeuIngresso.Models
         public string Descricao { get; set; }
         public string Nome { get; set; }
         public decimal Valor { get; set; }
-        public int IdCategoria { get; set; }
-        public string Categoria { get; set; }
+        public string TipoDeShow { get; set; }
     }
 }

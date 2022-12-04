@@ -96,6 +96,7 @@ namespace MeuIngresso.Data
                 comandoSql.CommandText = @"SELECT * from Clientes where email = @email";
                 comandoSql.Parameters.AddWithValue("@email", email);
                 SqlDataReader dadosSQL = comandoSql.ExecuteReader();
+
                 if (dadosSQL.Read())
                 {
                     cliente02 = new Cliente();
@@ -126,7 +127,6 @@ namespace MeuIngresso.Data
                 comandoSql.Parameters.AddWithValue("@nome", cliente.Nome);
                 comandoSql.Parameters.AddWithValue("@email", cliente.Email);
                 comandoSql.Parameters.AddWithValue("@senha", cliente.Senha);
-
                 comandoSql.ExecuteNonQuery();
             }
             catch (SqlException erro)
