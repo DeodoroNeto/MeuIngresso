@@ -48,11 +48,12 @@ namespace MeuIngresso.Data
 
                     listaClientes.Add(cliente);
                 }
-            }catch (SqlException erro)
+            }
+            catch (SqlException erro)
             {
                 Console.WriteLine("Erro: " + erro);
             }
-            return listaClientes; 
+            return listaClientes;
         }
         public Cliente Read(int idCli)
         {
@@ -143,6 +144,8 @@ namespace MeuIngresso.Data
                 comandoSql.Connection = base.conexaoDB;
 
                 comandoSql.CommandText = @"DELETE FROM Clientes WHERE IdCliente = @id";
+                comandoSql.Parameters.AddWithValue("@id", id);
+
 
                 comandoSql.ExecuteNonQuery();
             }
@@ -151,5 +154,6 @@ namespace MeuIngresso.Data
                 Console.WriteLine("Erro " + erro);
             }
         }
+
     }
 }

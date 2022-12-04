@@ -15,8 +15,10 @@ namespace MeuIngresso.Data
             try
             {
                 string stringConexao = @"Data source =DESKTOP-6VETETO;
-                                     Initial Catalog =BD_MeuIngresso;                                 
-                                     User Id =sa; password =Caneta!123";
+                                     Initial Catalog =BD_MeuIngresso;
+                                     Integrated Security = true";
+                                     //User Id =aluno; password =aa11++--";
+
                 conexaoDB = new SqlConnection(stringConexao);
                 conexaoDB.Open();
             }

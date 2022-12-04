@@ -460,11 +460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Neto\\Desktop\\Projeto Linguagem de Programação\\MeuIngresso\\MeuIngresso\\MeuIngresso.csproj",
+      "projectUniqueName": "F:\\Linguagem de programação PROJETO\\MeuIngresso\\MeuIngresso\\MeuIngresso.csproj",
       "projectName": "MeuIngresso",
-      "projectPath": "C:\\Users\\Neto\\Desktop\\Projeto Linguagem de Programação\\MeuIngresso\\MeuIngresso\\MeuIngresso.csproj",
+      "projectPath": "F:\\Linguagem de programação PROJETO\\MeuIngresso\\MeuIngresso\\MeuIngresso.csproj",
       "packagesPath": "C:\\Users\\Neto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Neto\\Desktop\\Projeto Linguagem de Programação\\MeuIngresso\\MeuIngresso\\obj\\",
+      "outputPath": "F:\\Linguagem de programação PROJETO\\MeuIngresso\\MeuIngresso\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -28,17 +28,17 @@ namespace MeuIngresso.Controllers
             string nome = cliente["nome"];
             string email = cliente["email"];
             string senha = cliente["senha"];
-            if(nome.Length < 3)
+            if (nome.Length < 3)
             {
                 ViewBag.Mensagem = "Nome deve conter 6 ou mais caracters";
                 return View();
             }
-            if(!email.Contains('@'))
+            if (!email.Contains('@'))
             {
                 ViewBag.Mensagem = "Email inválido";
                 return View();
             }
-            if(senha.Length < 6)
+            if (senha.Length < 6)
             {
                 ViewBag.Mensagem = "Senha deve conter mais de 3 digitos";
             }
@@ -96,17 +96,16 @@ namespace MeuIngresso.Controllers
             return View(cliente);
 
             using (ClienteData data = new ClienteData())
-            {
                 data.Update(cliente);
-            }
             return RedirectToAction("Index");
         }
-        public IActionResult Delete(int id)
-        {
-            using (ClienteData data = new ClienteData())
-                data.Delete(id);
 
-            return RedirectToAction("Index");
+            public IActionResult Delete(int id)
+            {
+                using (ClienteData data = new ClienteData())
+                    data.Delete(id);
+
+                return RedirectToAction("Index");
+            }
         }
     }
-}
