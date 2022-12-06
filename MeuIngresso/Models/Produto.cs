@@ -8,9 +8,10 @@ namespace MeuIngresso.Models
     public class Produto
     {
         public int IdProduto { get; set; }
-        public string Descricao { get; set; }
         public string Nome { get; set; }
-        public decimal Valor { get; set; }
+        public string Descricao { get; set; }
+        public string Valor { get; set; }
         public string TipoDeShow { get; set; }
+
     }
 }

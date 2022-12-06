@@ -185,3 +185,12 @@ F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcorea
 F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.dll
 F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.pdb
 F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.genruntimeconfig.cache
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Index.cshtml.g.cs
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Create.cshtml.g.cs
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Update.cshtml.g.cs
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\EntityFramework.dll
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

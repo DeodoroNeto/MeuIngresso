@@ -75,7 +75,6 @@ namespace MeuIngresso.Data
                     cliente01.Nome = dadosSQL["nome"].ToString();
                     cliente01.Email = dadosSQL["email"].ToString();
                 }
-
             }
             catch (SqlException erro)
             {
@@ -143,7 +142,7 @@ namespace MeuIngresso.Data
                 //Conectando com o banco de dados
                 comandoSql.Connection = base.conexaoDB;
 
-                comandoSql.CommandText = @"DELETE FROM Clientes WHERE IdCliente = @id";
+                comandoSql.CommandText = @"DELETE FROM Clientes WHERE idCliente = @id";
                 comandoSql.Parameters.AddWithValue("@id", id);
 
 

@@ -1,0 +1,28 @@
+﻿@model Produto
+
+<br />
+@if (Model == null)
+{
+    <h3>@ViewBag.Mensagem</h3>
+}
+else
+{
+    <h3>@ViewBag.Mensagem @Model.Nome</h3>
+    <table class="table table-hover">
+
+        <tr>
+            <td>@Model.IdProduto</td>
+            <td>@Model.Nome</td>
+            <td>@Model.Descricao</td>
+            <td>@Model.Valor</td>
+            <td>@Model.TipoDeShow</td>
+            <td>
+                <a class="btn btn-sm btn-danger"
+                   href="/cliente/delete/@Model.IdProduto">Apagar</a>
+                <a class="btn btn-sm btn-warning"
+                   href="/cliente/update/@Model.IdProduto">Editar</a>
+            </td>
+        </tr>
+    </table>
+}
+<a class="btn btn-primary" href="/cliente/create">Adicionar</a>
