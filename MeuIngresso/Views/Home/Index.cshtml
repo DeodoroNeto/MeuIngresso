@@ -1,0 +1,21 @@
+﻿@model Cliente
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<h3>Login</h3>
+
+<form asp-controller="Cliente" asp-action="Read" method="POST" lang="pt-br">
+
+    <div class="form-group">
+        <label>E-mail</label>
+        <input asp-for="Email" class="col-sm-4 col-form-label" />
+        <span asp-validation-for="Email"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Senha</label>
+        <input asp-for="Senha" class="col-sm-4 col-form-label" />
+        <span asp-validation-for="Senha"></span>
+    </div>
+
+    <button class="btn btn-primary">Login</button>&nbsp;
+    <button class="btn btn-primary">Não sou cliente</button>&nbsp;
+</form>

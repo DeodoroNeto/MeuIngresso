@@ -1,0 +1,246 @@
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.exe
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.deps.json
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.runtimeconfig.json
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.runtimeconfig.dev.json
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.dll
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.pdb
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.Views.dll
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.Views.pdb
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.csproj.AssemblyReference.cache
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.AssemblyInfoInputs.cache
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.AssemblyInfo.cs
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.csproj.CoreCompileInputs.cache
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorAssemblyInfo.cache
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorAssemblyInfo.cs
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\staticwebassets\MeuIngresso.StaticWebAssets.Manifest.cache
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\staticwebassets\MeuIngresso.StaticWebAssets.xml
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\scopedcss\bundle\MeuIngresso.styles.css
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.TagHelpers.input.cache
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.TagHelpers.output.cache
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorCoreGenerate.cache
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Update.cshtml.g.cs
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorTargetAssemblyInfo.cache
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorTargetAssemblyInfo.cs
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.Views.pdb
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.csproj.CopyComplete
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.dll
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.pdb
+C:\Users\Neto\Desktop\Projeto Linguagem de Programação\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.genruntimeconfig.cache
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.StaticWebAssets.xml
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.exe
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.deps.json
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.runtimeconfig.json
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.runtimeconfig.dev.json
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.dll
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.pdb
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.Views.dll
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.Views.pdb
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.csproj.AssemblyReference.cache
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.AssemblyInfoInputs.cache
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.AssemblyInfo.cs
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.csproj.CoreCompileInputs.cache
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.MvcApplicationPartsAssemblyInfo.cache
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorAssemblyInfo.cache
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorAssemblyInfo.cs
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\staticwebassets\MeuIngresso.StaticWebAssets.Manifest.cache
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.TagHelpers.input.cache
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.TagHelpers.output.cache
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorCoreGenerate.cache
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Update.cshtml.g.cs
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorTargetAssemblyInfo.cache
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorTargetAssemblyInfo.cs
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.Views.pdb
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.csproj.CopyComplete
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.dll
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.pdb
+D:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.genruntimeconfig.cache
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.exe
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.deps.json
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.runtimeconfig.json
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.runtimeconfig.dev.json
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.dll
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.pdb
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.Views.dll
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.Views.pdb
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.csproj.AssemblyReference.cache
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.GeneratedMSBuildEditorConfig.editorconfig
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.AssemblyInfoInputs.cache
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.AssemblyInfo.cs
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.csproj.CoreCompileInputs.cache
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.MvcApplicationPartsAssemblyInfo.cache
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorAssemblyInfo.cache
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorAssemblyInfo.cs
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\staticwebassets\MeuIngresso.StaticWebAssets.Manifest.cache
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\staticwebassets\MeuIngresso.StaticWebAssets.xml
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\scopedcss\bundle\MeuIngresso.styles.css
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.TagHelpers.input.cache
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.TagHelpers.output.cache
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorCoreGenerate.cache
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Update.cshtml.g.cs
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorTargetAssemblyInfo.cache
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorTargetAssemblyInfo.cs
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.Views.pdb
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.csproj.CopyComplete
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.dll
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.pdb
+E:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.genruntimeconfig.cache
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.exe
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.deps.json
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.runtimeconfig.json
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.runtimeconfig.dev.json
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.dll
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.pdb
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.Views.dll
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.Views.pdb
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.csproj.AssemblyReference.cache
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.GeneratedMSBuildEditorConfig.editorconfig
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.AssemblyInfoInputs.cache
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.AssemblyInfo.cs
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.csproj.CoreCompileInputs.cache
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.MvcApplicationPartsAssemblyInfo.cache
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorAssemblyInfo.cache
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorAssemblyInfo.cs
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\staticwebassets\MeuIngresso.StaticWebAssets.Manifest.cache
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\staticwebassets\MeuIngresso.StaticWebAssets.xml
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\scopedcss\bundle\MeuIngresso.styles.css
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.TagHelpers.input.cache
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.TagHelpers.output.cache
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorCoreGenerate.cache
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Update.cshtml.g.cs
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorTargetAssemblyInfo.cache
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorTargetAssemblyInfo.cs
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.Views.pdb
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.csproj.CopyComplete
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.dll
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.pdb
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.genruntimeconfig.cache
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Index.cshtml.g.cs
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Create.cshtml.g.cs
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Update.cshtml.g.cs
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\EntityFramework.dll
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Linguagem de programação PROJETO\MeuIngresso\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.exe
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.deps.json
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.runtimeconfig.json
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.runtimeconfig.dev.json
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.dll
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.pdb
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.Views.dll
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\bin\Debug\netcoreapp3.1\MeuIngresso.Views.pdb
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.csproj.AssemblyReference.cache
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.AssemblyInfoInputs.cache
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.AssemblyInfo.cs
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.csproj.CoreCompileInputs.cache
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorAssemblyInfo.cache
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorAssemblyInfo.cs
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\staticwebassets\MeuIngresso.StaticWebAssets.Manifest.cache
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\staticwebassets\MeuIngresso.StaticWebAssets.xml
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\scopedcss\bundle\MeuIngresso.styles.css
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.TagHelpers.input.cache
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.TagHelpers.output.cache
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorCoreGenerate.cache
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Update.cshtml.g.cs
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Create.cshtml.g.cs
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Index.cshtml.g.cs
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Update.cshtml.g.cs
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorTargetAssemblyInfo.cache
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.RazorTargetAssemblyInfo.cs
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.Views.pdb
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.csproj.CopyComplete
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.dll
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.pdb
+C:\Users\Neto\Desktop\MeuIngresso-main\MeuIngresso\obj\Debug\netcoreapp3.1\MeuIngresso.genruntimeconfig.cache
