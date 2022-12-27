@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Linguagem de programação PROJETO\\MeuIngresso\\MeuIngresso\\MeuIngresso.csproj": {}
+    "C:\\Users\\Neto\\Desktop\\MeuIngresso-main\\MeuIngresso\\MeuIngresso.csproj": {}
   },
   "projects": {
-    "F:\\Linguagem de programação PROJETO\\MeuIngresso\\MeuIngresso\\MeuIngresso.csproj": {
+    "C:\\Users\\Neto\\Desktop\\MeuIngresso-main\\MeuIngresso\\MeuIngresso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Linguagem de programação PROJETO\\MeuIngresso\\MeuIngresso\\MeuIngresso.csproj",
+        "projectUniqueName": "C:\\Users\\Neto\\Desktop\\MeuIngresso-main\\MeuIngresso\\MeuIngresso.csproj",
         "projectName": "MeuIngresso",
-        "projectPath": "F:\\Linguagem de programação PROJETO\\MeuIngresso\\MeuIngresso\\MeuIngresso.csproj",
+        "projectPath": "C:\\Users\\Neto\\Desktop\\MeuIngresso-main\\MeuIngresso\\MeuIngresso.csproj",
         "packagesPath": "C:\\Users\\Neto\\.nuget\\packages\\",
-        "outputPath": "F:\\Linguagem de programação PROJETO\\MeuIngresso\\MeuIngresso\\obj\\",
+        "outputPath": "C:\\Users\\Neto\\Desktop\\MeuIngresso-main\\MeuIngresso\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

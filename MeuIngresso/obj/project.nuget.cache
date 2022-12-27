@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B0UrEx496O20TmWnaI/6CevyVfgz2dyp8hc8w1Z7bvXJAdF6aRmARekT6PHKF2Yy0EO9BPxPbN40Vo/aGyKKcA==",
+  "dgSpecHash": "guv5XDfNnv59/z6DLEaPtX1cyehqjx7ul5TvkpCMR8pNaLBMZesxeIjQTeWsH/5pn4audmcrg0wZh4z3/7nCTA==",
   "success": true,
-  "projectFilePath": "F:\\Linguagem de programação PROJETO\\MeuIngresso\\MeuIngresso\\MeuIngresso.csproj",
+  "projectFilePath": "C:\\Users\\Neto\\Desktop\\MeuIngresso-main\\MeuIngresso\\MeuIngresso.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Neto\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Neto\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
